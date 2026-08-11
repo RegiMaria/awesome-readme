@@ -303,6 +303,7 @@ Linguagem	Uso
 💜 TypeScript	Mostrar Imagem
 🩵 Outras	Mostrar Imagem
 </div> <p align="center"><sub><em>* números ilustrativos - troque pelos seus dados reais quando for usar 💫</em></sub></p> <br/> <!-- Cards de estatísticas REAIS + gráfico de linguagens mais usadas, lado a lado (esses sim puxam dados automaticamente do GitHub, atualizando sozinhos) --> 
+
 ### Opção 1: Barras de Progresso em Paleta Pastel
 
 <div align="center">

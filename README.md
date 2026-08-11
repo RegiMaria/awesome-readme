@@ -92,7 +92,7 @@ Explore nossos modelos por tema e encontre o estilo ideal para a sua comunidade:
 | Tema | Link para o README |
 | :--- | :--- |
 | 🧜‍♀️ **mermaid-theme** |[ Acessar Modelo `mermaid-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/readme-mermaid-theme.md) |
-| 🧬 **biology-theme** | [Acessar Modelo `biology-theme`](./themes/biology-theme/README.md) |
+| 🧬 **biology-theme** | [Acessar Modelo `biology-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/biology-theme.md) |
 
 ---
 
@@ -101,3 +101,38 @@ Explore nossos modelos por tema e encontre o estilo ideal para a sua comunidade:
 1. **Escolha um Tema:** Acesse a tabela acima e abra o modelo desejado.
 2. **Copie o Código:** Abra o arquivo `.md` no modo *Raw* e copie todo o conteúdo.
 3. **Cole no Seu Perfil:** Cole no README
+
+
+
+---
+
+<br/>
+
+<div align="center">
+
+<img width="220" alt="Estrela" src="https://github.com/user-attachments/assets/e4b8a7e1-8fdb-42c1-be34-6524d9021a60" />
+
+## ⭐ Gostou do que viu por aqui?
+
+### Deixe sua estrela e ajude esse repositório a brilhar ainda mais! ✨
+
+<br/>
+
+Se este catálogo te ajudou a deixar seu perfil do GitHub mais bonito, mais organizado
+ou só te deu uma ideia nova, considere clicar na **estrela (Star) ⭐** lá no topo da página.
+
+**Isso ajuda o projeto a alcançar mais pessoas — e mais mulheres na tecnologia! 💛**
+
+<br/>
+
+<img src="https://img.shields.io/badge/⭐_Deixe_sua_estrela-FFD966?style=for-the-badge&labelColor=8B5E34" />
+
+<br/><br/>
+
+<sub>Feito com 💛 e muito carinho</sub>
+
+</div>
+
+
+
+

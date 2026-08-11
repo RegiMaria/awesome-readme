@@ -63,8 +63,8 @@ Atualmente estudando **[sua área/curso]** e explorando o mundo do open source.
 
 </td>
 <td width="40%">
-<img src="https://media.giphy.com/media/xUOxf48ImHZWNLl2yk/giphy.gif" width="100%"/>
-<!-- GIF ilustrativo — troque por um GIF/print de você codando, do Giphy ou seu próprio -->
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7b539d48-39a4-4a75-bb71-8c78ba0487c5" />
+<!-- GIF ilustrativo — troque por um GIF/print de você codando, do Giphy ou seu próprio, ou uma foto de algum tipo -->
 </td>
 </tr>
 </table>

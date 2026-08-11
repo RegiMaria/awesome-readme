@@ -91,8 +91,10 @@ Explore nossos modelos por tema e encontre o estilo ideal para a sua comunidade:
 
 | Tema | Link para o README |
 | :--- | :--- |
-| 🧜‍♀️ **mermaid-theme** |[ Acessar Modelo `mermaid-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/readme-mermaid-theme.md) |
+| 🧜‍♀️ **mermaid-theme** | [Acessar Modelo `mermaid-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/readme-mermaid-theme.md) |
 | 🧬 **biology-theme** | [Acessar Modelo `biology-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/biology-theme.md) |
+| 🥋 **fight-theme** | [Acessar Modelo `fight-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/fight-theme.md) |
+
 
 ---
 
@@ -121,7 +123,7 @@ Explore nossos modelos por tema e encontre o estilo ideal para a sua comunidade:
 Se este catálogo te ajudou a deixar seu perfil do GitHub mais bonito, mais organizado
 ou só te deu uma ideia nova, considere clicar na **estrela (Star) ⭐** lá no topo da página.
 
-**Isso ajuda o projeto a alcançar mais pessoas — e mais mulheres na tecnologia! 💛**
+**Isso ajuda o projeto a alcançar mais pessoas - e mais mulheres na tecnologia! 💛**
 
 <br/>
 

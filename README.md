@@ -94,6 +94,7 @@ Explore nossos modelos por tema e encontre o estilo ideal para a sua comunidade:
 | 🧜‍♀️ **mermaid-theme** | [Acessar Modelo `mermaid-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/readme-mermaid-theme.md) |
 | 🧬 **biology-theme** | [Acessar Modelo `biology-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/biology-theme.md) |
 | 🥋 **fight-theme** | [Acessar Modelo `fight-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/fight-theme.md) |
+| 📖 **book-theme** | [Acessar Modelo `book-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/book-theme.md) |
 
 
 ---

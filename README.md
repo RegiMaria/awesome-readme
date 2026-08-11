@@ -91,7 +91,7 @@ Explore nossos modelos por tema e encontre o estilo ideal para a sua comunidade:
 
 | Tema | Link para o README |
 | :--- | :--- |
-| 🧜‍♀️ **mermaid-theme** | [Acessar Modelo `mermaid-theme`](./themes/mermaid-theme/README.md) |
+| 🧜‍♀️ **mermaid-theme** |[ Acessar Modelo `mermaid-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/readme-mermaid-theme.md) |
 | 🧬 **biology-theme** | [Acessar Modelo `biology-theme`](./themes/biology-theme/README.md) |
 
 ---

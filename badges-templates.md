@@ -100,6 +100,11 @@ O que aparece em src=" codigo-aqui"
 
 7. Altere a dimensão e o alinhamento.
 
+8. Inserir link clicável
+
+Troque o `href="https://github.com/SEU-USUARIO/SEU-REPOSITORIO"` pelo link
+do seu repositório.
+
 ### Copie o código 
 
 **Badge de exemplo:**
@@ -109,7 +114,9 @@ O que aparece em src=" codigo-aqui"
 **Código:**
 ```
 <div align="center">
-  <img width="260" height="62" alt="Image" src="https://github.com/user-attachments/assets/5fd6d083-3ddf-4b25-b8c2-c438b89590bc" />
+  <a href="https://github.com/SEU-USUARIO/SEU-REPOSITORIO">
+    <img width="260" height="62" alt="Descrição do badge" src="https://github.com/user-attachments/assets/5fd6d083-3ddf-4b25-b8c2-c438b89590bc" />
+  </a>
 </div>
 ```
 Altere as configurações alinhamento conforme sua vontade: center, left, right...

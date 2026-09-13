@@ -96,6 +96,7 @@ Explore nossos modelos por tema e encontre o estilo ideal para a sua comunidade:
 | 🥋 **fight-theme** | [Acessar Modelo `fight-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/fight-theme.md) |
 | 📖 **book-theme** | [Acessar Modelo `book-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/book-theme.md) |
 | 🍄 **hk-theme** | [Acessar-Modelo `kh-theme`](https://github.com/RegiMaria/awesome-readme/blob/main/hellokitty-theme.md) |
+| 🦄 **bagdes-template** | [Acessar-Modelo `bagdes-template`](https://github.com/RegiMaria/awesome-readme/blob/main/badges-templates.md) |
 
 
 ---

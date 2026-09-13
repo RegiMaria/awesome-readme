@@ -83,5 +83,43 @@ Crie um badge SVG animado no estilo "Trendshift", com essas características:
 
 ## Crie sua própria Bagde aqui
 
-Colocar link aqui
+⭐ [Cria sua própria bagde clicando aqui](https://regimaria.github.io/awesome-readme/)
+
+Passo a passo:
+
+1. Depois de gerar a bagde
+2. Abra qualquer repositório
+3. Crie uma `new issue`
+4. Arraste o arquivo svg pra dentro do corpo da issue
+5. Copie o código `user-attachments`
+O que aparece em src=" codigo-aqui"
+6. Cole no código abaixo.
+
+> Todas as vezes que for inserir uma bagde num arquivo do Github, precisa fazer esse processo.
+> Substitua o `src="seu-arquivo"`.
+
+7. Altere a dimensão e o alinhamento.
+
+### Copie o código 
+
+**Badge de exemplo:**
+
+<img width="260" height="62" alt="Image" src="https://github.com/user-attachments/assets/5fd6d083-3ddf-4b25-b8c2-c438b89590bc" />
+
+**Código:**
+```
+<div align="center">
+  <img width="260" height="62" alt="Image" src="https://github.com/user-attachments/assets/5fd6d083-3ddf-4b25-b8c2-c438b89590bc" />
+</div>
+```
+Altere as configurações alinhamento conforme sua vontade: center, left, right...
+
+Atenção:
+
+- "Copiar código" → copia só o texto do código SVG. Se você colar esse texto direto no README.md,
+o GitHub não renderiza . Esse botão só serve se você quiser revisar/editar o
+código manualmente antes de salvar como arquivo.
+
+Ou seja: sempre usa o **Baixar**, nunca cola o código copiado direto no README.
+
 

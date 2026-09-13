@@ -1,6 +1,6 @@
 # Kit de Bagdes
 
-Aqui vão sugestões organizadas por categoria, pensando no seu estilo neon rosa/roxo:
+Aqui vão sugestões organizadas por categoria, pensando no estilo neon rosa/roxo -  você pode alterar conforme sua preferência:
 
 ## Ranking / popularidade
 
